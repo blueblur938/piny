@@ -1,1 +1,1 @@
-This is a simple html website just like pinrtrest the search bar does not work becuase i did not fully code it. Just ignore everything but index.html and the website. Online for the internet.
+This is a simple html website just like pinrtrest the search bar does not work becuase i did not fully code it. Just ignore everything but index.html and the website. Online for the internet. i ignored this project for 5 months.
